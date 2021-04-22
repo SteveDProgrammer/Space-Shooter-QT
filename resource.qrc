@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/blue_shipv3/Ship (1).png</file>
+        <file>Assets/blue_shipv3/Ship (2).png</file>
+        <file>Assets/blue_shipv3/Ship (3).png</file>
+        <file>Assets/blue_shipv3/Ship (4).png</file>
+        <file>Assets/blue_shipv3/Ship.png</file>
+        <file>Assets/Red_Dragon/Red_Dragon (1).png</file>
+        <file>Assets/Red_Dragon/Red_Dragon (2).png</file>
+        <file>Assets/Red_Dragon/Red_Dragon (3).png</file>
+        <file>Assets/Red_Dragon/Red_Dragon (4).png</file>
+        <file>Assets/blue_shipv3/Shield_mode/Shield (1).png</file>
+        <file>Assets/blue_shipv3/Shield_mode/Shield (2).png</file>
+        <file>Assets/blue_shipv3/Shield_mode/Shield (3).png</file>
+        <file>Assets/blue_shipv3/Shield_mode/Shield (4).png</file>
+        <file>Assets/Menu/HomeScreen.png</file>
+        <file>Assets/Backgrounds/Background (1).png</file>
+        <file>Assets/Backgrounds/Background (2).png</file>
+        <file>Assets/Bullets/bullet_v1.png</file>
+        <file>Assets/Bullets/bullet_v2.png</file>
+        <file>Assets/Bullets/bullet_v3_1.png</file>
+        <file>Assets/misc/score(+2).png</file>
+        <file>Assets/Red_Dragon/Green Explosion/green_explosion (1).png</file>
+        <file>Assets/Red_Dragon/Green Explosion/green_explosion (2).png</file>
+        <file>Assets/Red_Dragon/Green Explosion/green_explosion (3).png</file>
+        <file>Assets/Red_Dragon/Green Explosion/green_explosion (4).png</file>
+        <file>Assets/Red_Dragon/Green Explosion/green_explosion (5).png</file>
+        <file>Assets/Red_Dragon/Green Explosion/green_explosion (6).png</file>
+        <file>Assets/Red_Dragon/Red Explosion/red_explosion (1).png</file>
+        <file>Assets/Red_Dragon/Red Explosion/red_explosion (2).png</file>
+        <file>Assets/Red_Dragon/Red Explosion/red_explosion (3).png</file>
+        <file>Assets/Red_Dragon/Red Explosion/red_explosion (4).png</file>
+        <file>Assets/Red_Dragon/Red Explosion/red_explosion (5).png</file>
+        <file>Assets/Red_Dragon/Red Explosion/red_explosion (6).png</file>
+        <file>Assets/Red_Dragon/Yellow Explosion/yellow_explosion (1).png</file>
+        <file>Assets/Red_Dragon/Yellow Explosion/yellow_explosion (2).png</file>
+        <file>Assets/Red_Dragon/Yellow Explosion/yellow_explosion (3).png</file>
+        <file>Assets/Red_Dragon/Yellow Explosion/yellow_explosion (4).png</file>
+        <file>Assets/Red_Dragon/Yellow Explosion/yellow_explosion (5).png</file>
+        <file>Assets/Red_Dragon/Yellow Explosion/yellow_explosion (6).png</file>
+        <file>Assets/misc/score(-2).png</file>
+        <file>Assets/misc/Game Over (1).png</file>
+        <file>Assets/misc/Game Over (2).png</file>
+        <file>Assets/misc/Game Over (3).png</file>
+        <file>Assets/misc/HealthBar (1).png</file>
+        <file>Assets/Menu/Start.png</file>
+        <file>Assets/Meteorites/Meteorite (1).png</file>
+        <file>Assets/Meteorites/Meteorite (2).png</file>
+        <file>Assets/Meteorites/Meteorite (3).png</file>
+        <file>Assets/Meteorites/Meteorite (4).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (1).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (2).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (3).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (4).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (5).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (6).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (7).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (8).png</file>
+        <file>Assets/blue_shipv3/Explosion/Explosion (9).png</file>
+        <file>Assets/misc/health(-5).png</file>
+        <file>Assets/misc/health(-10).png</file>
+        <file>Assets/PowerUP/Bronze.png</file>
+        <file>Assets/PowerUP/Gold.png</file>
+        <file>Assets/PowerUP/Health.png</file>
+        <file>Assets/PowerUP/Shield.png</file>
+        <file>Assets/PowerUP/Silver.png</file>
+        <file>Assets/misc/HealthBarFrame.png</file>
+        <file>Assets/misc/health(+5).png</file>
+        <file>Assets/misc/score(+10).png</file>
+        <file>Assets/misc/score(+20).png</file>
+        <file>Assets/misc/score(+30).png</file>
+        <file>Assets/Menu/music/music1.mp3</file>
+        <file>Assets/Menu/music/music2.mp3</file>
+        <file>Assets/Menu/music/music3.mp3</file>
+        <file>Assets/blue_shipv3/Explosion/explosion.mp3</file>
+        <file>Assets/Bullets/pew-pew.mp3</file>
+        <file>Assets/misc/Music/crash.mp3</file>
+        <file>Assets/blue_shipv3/ouch.mp3</file>
+        <file>Assets/misc/Music/nani.mp3</file>
+        <file>Assets/misc/Music/powerup.mp3</file>
+        <file>Assets/misc/Music/Shield off.mp3</file>
+        <file>Assets/misc/Music/Shield on.mp3</file>
+    </qresource>
+</RCC>

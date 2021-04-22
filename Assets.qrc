@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Assets">
+        <file>Red_Dragon/Red_Dragon (1).png</file>
+        <file>Red_Dragon/Red_Dragon (2).png</file>
+        <file>Red_Dragon/Red_Dragon (3).png</file>
+        <file>Red_Dragon/Red_Dragon (4).png</file>
+        <file>blue_shipv3/Ship (3).png</file>
+        <file>blue_shipv3/Ship (1).png</file>
+        <file>blue_shipv3/Ship (2).png</file>
+        <file>blue_shipv3/Ship (4).png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
